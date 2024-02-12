@@ -102,7 +102,7 @@ class _gameState extends State<game> {
                     return AlertDialog(
                       title: Text("Brute force won't help you."),
                       content: Text(
-                          'try a diffrent way'),
+                          'try a diffrent way work smarter not harder'),
                       actions: <Widget>[
                         TextButton(
                           onPressed: () {
